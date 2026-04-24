@@ -114,7 +114,7 @@ Full Stack Developer | Building ML-powered applications
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/biibekk/" target="_blank">
+<a href="https://leetcode.com/_biibekk_/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
