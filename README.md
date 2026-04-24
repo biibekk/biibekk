@@ -28,7 +28,7 @@ Full Stack Developer | Building ML-powered applications
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![C](https://img.shields.io/badge/C-283593?style=for-the-badge\&logo=c\&logoColor=white)
+![](https://img.shields.io/badge/C-283593?style=for-the-badge\&logo=c\&logoColor=white)
 
   </td>
 </tr>
@@ -48,8 +48,9 @@ Full Stack Developer | Building ML-powered applications
   <td><b>Databases</b></td>
   <td>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
   </td>
 </tr>
@@ -90,13 +91,20 @@ Full Stack Developer | Building ML-powered applications
 </table>
 
 
-
 ---
 
 ## Experience
 
+### Freelance Full-Stack Developer
+
+**Move n Leap** • Jan 2026
+
+<!-- [GitHub](https://github.com/YOUR_USERNAME/project-repo) • [Live Demo](https://your-live-link.com)  -->
+
+* Built a React-based website for an academy to generate enquiries, storing submissions and sending email notifications.
 
 ---
+
 
 ## Connect With Me
 
