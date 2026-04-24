@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋 I'm Bibek Shrestha
 
-<!--
-**biibekk/biibekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌱 Currently working on: Crop Disease Prediction using CNN
+- 🤖 Interested in: Machine Learning, Deep Learning
+- 💡 Exploring: Real-world AI applications
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Python, TensorFlow, Keras
+- Git, GitHub
+- HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+### 🌿 Crop Disease Prediction
+- Built a CNN model to detect plant diseases
+- Achieved ~90% accuracy
+- Working on adding recommendations system
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME)
+
+## 📫 Connect with Me
+- LinkedIn: (add link)
