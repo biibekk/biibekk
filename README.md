@@ -117,22 +117,18 @@ Full Stack Developer | Building ML-powered applications
 <a href="https://leetcode.com/_biibekk_/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-
-<!-- 
-<a href="https://your-portfolio-link.com" target="_blank">
+ 
+<a href="https://bibek-shrestha.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
--->
 
 <a href="mailto:bibek.srestha20@example.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<!--
-<a href="https://your-resume-link.com" target="_blank">
+<a href="https://drive.google.com/file/d/1VosY9qtZQudfLDvCozJZwk4rH21VL_at/view?usp=share_link" target="_blank">
   <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=read-the-docs&logoColor=white" />
 </a>
--->
 
 </div>
 
